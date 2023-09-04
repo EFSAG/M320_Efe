@@ -26,10 +26,8 @@ namespace rectangle
             this.height = height;
         }
 
-        public rectangle(int width, int height, Color color)
-        {
-            this.width = width;
-            this.height = height;
+        public rectangle(int width, int height, Color color) : this(width, height)
+            {
             this.color = color;
         }
 
@@ -50,3 +48,8 @@ namespace rectangle
         }
     }
 }
+/*
+ zugreifung:
+
+return widht;
+*/
