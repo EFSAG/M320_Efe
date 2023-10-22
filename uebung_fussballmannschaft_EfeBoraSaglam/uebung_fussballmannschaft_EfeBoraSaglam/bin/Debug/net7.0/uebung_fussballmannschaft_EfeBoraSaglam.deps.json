@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "uebung_fussballmannschaft_EfeBoraSaglam/1.0.0": {
+        "runtime": {
+          "uebung_fussballmannschaft_EfeBoraSaglam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uebung_fussballmannschaft_EfeBoraSaglam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
